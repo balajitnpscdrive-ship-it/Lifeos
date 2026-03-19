@@ -1,0 +1,15 @@
+{
+  "short_name": "GasApp",
+  "name": "Gas Web App Viewer",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2933/2933930.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4285f4",
+  "background_color": "#ffffff"
+}
